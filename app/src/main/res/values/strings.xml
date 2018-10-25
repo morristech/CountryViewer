@@ -1,0 +1,14 @@
+<resources>
+    <!--App-->
+    <string name="app_name">Country Viewer</string>
+    <string name="internal_error">Что-то пошло не так</string>
+
+    <!--Common-->
+    <string name="search">Поиск</string>
+    <string name="not_found">Ничего не найдено</string>
+
+    <!--Country-->
+    <string name="country_selected">Выбрано - %s</string>
+    <string name="population_text">%s чел.</string>
+    <string name="area_text">%s км²</string>
+</resources>
